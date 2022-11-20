@@ -1,0 +1,15 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/AssemblyExplorer/XmlDocument/@EntryValue">&lt;AssemblyExplorer&gt;&#xD;
+  &lt;Assembly Path="C:\Users\Dejan\.nuget\packages\system.commandline\2.0.0-beta4.22272.1\lib\net6.0\System.CommandLine.dll" /&gt;&#xD;
+&lt;/AssemblyExplorer&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=5a601962_002Dd5bf_002D4b00_002Da5a0_002D97d9f6b29d1e/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="ProjectParserRegistryTests #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;MSTest::A1720C26-2046-4C25-B2C3-A829F0CF0CB1::net7.0::Prdec.Tests.ProjectParsers.ProjectParserRegistryTests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;MSTest::A1720C26-2046-4C25-B2C3-A829F0CF0CB1::net7.0::Prdec.Tests.ProjectParsers.ProjectFileParsersTests&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=a5c911e5_002Deb27_002D4ff3_002Dbc39_002Daec32fc3605e/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="ProjectParserRegistryTests" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;MSTest::A1720C26-2046-4C25-B2C3-A829F0CF0CB1::net7.0::Prdec.Tests.ProjectParsers.ProjectParserRegistryTests&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
